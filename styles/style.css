@@ -282,3 +282,52 @@ vision-description{
     border: 1px solid #5490F5;
     transition: 0.5s;
 }
+
+
+
+/*? quote section  */
+
+.quote{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 100px;
+}
+
+.quote-box{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 1280px;
+    padding: 48px 24px;
+    background-color: #0e0e0e10;
+    border-radius: 16px;
+    background-image:url(/assets/quote-bg.png) ;
+    background-repeat: no-repeat;
+    background-position:30px 10px; 
+     /* ? I figure out this after trying 30 min  */
+ }
+
+ .quote-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: #0e0e0ebe;
+    margin-bottom: 12px;
+ }
+
+ .quote-owner{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 4px;
+
+ }
+
+
+ .q-owner-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: #0e0e0ebe;
+    
+ }
+/*? quote section end  */
