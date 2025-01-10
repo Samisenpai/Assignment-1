@@ -49,6 +49,7 @@
     color: #006A50;
     border: 1px solid  #006A50;
     border-radius: 8px;
+    cursor: pointer;
 
 }
 
@@ -59,7 +60,7 @@
     transition: 0.5s;
 }
 
-
+/*? nav section end  */
 
 /*? Hero section  */
 
@@ -111,6 +112,7 @@
     border: 1px solid  #006A50;
     border-radius: 8px;
     background-color: #006A50;
+    cursor: pointer;
 }
 
 .btn-2:hover{
@@ -120,6 +122,7 @@
     transition: 0.5s;
 }
 
+/*? hero section end  */
 
 /*? vision section  */
 
@@ -193,6 +196,7 @@ vision-description{
     border: 1px solid  #09A15C;
     border-radius: 8px;
     background-color: #09A15C;
+    cursor: pointer;
 }
 
 
@@ -202,6 +206,8 @@ vision-description{
     border: 1px solid #09A15C;
     transition: 0.5s;
 }
+
+/*? card-2 design end  */
 
 
 /*? card-3 design  */
@@ -230,6 +236,7 @@ vision-description{
     border: 1px solid  #FFC239;
     border-radius: 8px;
     background-color: #FFC239;
+    cursor: pointer;
 }
 
 
@@ -244,7 +251,7 @@ vision-description{
 /*? card-3 end  */
 
 
-/*? cards design end  */
+
 
 .card-icon{
     width: 64px;
@@ -260,6 +267,7 @@ vision-description{
 .card-description{
     font-size: 16px;
     font-weight: 400;
+    color: #0e0e0e9a;
     
 }
 .card-btn{
@@ -273,6 +281,7 @@ vision-description{
     border: 1px solid  #5490F5;
     border-radius: 8px;
     background-color: #5490F5;
+    cursor: pointer;
 }
 
 
@@ -282,6 +291,9 @@ vision-description{
     border: 1px solid #5490F5;
     transition: 0.5s;
 }
+
+
+/*? cards design end  */
 
 
 
